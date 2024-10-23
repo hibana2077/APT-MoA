@@ -48,3 +48,4 @@ MFF: true                  #Whether or not to train the MFF task
 MFF_dataset_dict:
   RealMFF: /home/yangsun/TC-MoA_Camera_Ready/dataset/train/RealMFF
   MFI-WHU: /home/yangsun/TC-MoA_Camera_Ready/dataset/train/MFI-WHU
+

@@ -5,6 +5,7 @@ device: cuda
 waiting_time: 0
 upsample: true
 more_detail: '_No_Win'
+upsample: True
 hasWindows: False
 
 #model setting
@@ -32,5 +33,6 @@ ckpt_dict:
   checkpoint-0-TC_MoA_Base_test.pth : Base
 # Where the prediction results are saved
 result_path: ./result/
+
 
 
